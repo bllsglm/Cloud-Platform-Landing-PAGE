@@ -1,4 +1,4 @@
-# Company Landing Page
+# Cloud Platform Pages
 
 ![Cloud Service Pages built with HTML, CSS](./images/cloud1.png)
 
